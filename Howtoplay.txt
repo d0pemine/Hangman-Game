@@ -1,0 +1,7 @@
+How to play:
+
+1. The Computer will have a random word, and give a theme
+2. The task of player is to guess the word
+3. After the game starts, players only need to enter the desired word
+4. If the word is guessed correct, the player win
+5. If the word is guessed wrong, the player lose
